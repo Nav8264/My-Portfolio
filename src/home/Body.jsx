@@ -69,16 +69,19 @@ const Body = () => {
               stunning and user-friendly interfaces that leave a lasting impact.
               <br></br>
               My skills have been recognized and featured on esteemed platforms
-              such as <span className="text-red-500"> Navneet.netlify</span>. My
-              ultimate objective is to collaborate with you in crafting powerful
-              UIs that effectively communicate your message to your target
-              audience. <br />I believe in the transformative power of design
-              and I am committed to delivering exceptional results that align
-              with your goals.<br></br> I invite you to explore my portfolio and
-              witness firsthand the meticulous attention to detail and the
-              passion I infuse into my work.<br></br> Together, we can create
-              remarkable digital experiences that captivate and engage your
-              users.
+              such as{" "}
+              <a href="https://navneetsingh12.netlify.app/" target="_blank">
+                <span className="text-red-500"> Navneet.netlify</span>
+              </a>
+              . My ultimate objective is to collaborate with you in crafting
+              powerful UIs that effectively communicate your message to your
+              target audience. <br />I believe in the transformative power of
+              design and I am committed to delivering exceptional results that
+              align with your goals.<br></br> I invite you to explore my
+              portfolio and witness firsthand the meticulous attention to detail
+              and the passion I infuse into my work.<br></br> Together, we can
+              create remarkable digital experiences that captivate and engage
+              your users.
             </div>
           </div>
         </div>
@@ -133,9 +136,12 @@ const Body = () => {
               </div>
               <div className="para">
                 I'm Navneet Singh, a dedicated Front End Developer with
-                expertise in UI/UX design. My work, featured on Navneet.in,
-                reflects my passion for creating powerful UIs that resonate with
-                audiences. Let's collaborate to craft exceptional digital
+                expertise in UI/UX design. My work, featured on
+                <a href="https://navneetsingh12.netlify.app/" target="_blank">
+                  <span className="text-red-500"> Navneet.netlify</span>
+                </a>
+                , reflects my passion for creating powerful UIs that resonate
+                with audiences. Let's collaborate to craft exceptional digital
                 experiences that captivate and leave a lasting impact.
               </div>
             </div>

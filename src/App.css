@@ -141,7 +141,7 @@
 .maindiv {
   background-image: linear-gradient(to right, #f4ece6 40%, white 40%);
   /* border: 2px solid wheat; */
-  height: 100vh;
+  height: 120vh;
   width: 100%;
   display: flex;
   /* background-color: #024f6b; */

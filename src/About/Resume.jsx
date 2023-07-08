@@ -1,7 +1,5 @@
 import React from "react";
-// import Footer from "../home/Footer";
-// import Navbar from "../home/Navbar";
-
+import me from "../../src/Navneetresume.pdf";
 const Resume = () => {
   const data = [
     {
@@ -25,8 +23,9 @@ const Resume = () => {
   ];
   const handleDownload = () => {
     const downloadLink = document.createElement("a");
-    downloadLink.href = ""; // Replace with the actual path to your CV file
-    downloadLink.download = "cv.pdf"; // Replace with the desired file name
+    downloadLink.href = me;
+    console.log("me", me); // Replace with the actual path to your CV file
+    downloadLink.download = "navneetPdf"; // Replace with the desired file name
     downloadLink.click();
   };
 

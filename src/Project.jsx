@@ -78,6 +78,7 @@ const Project = () => {
           src="https://img.icons8.com/dotty/2x/project-management.png"
           height="50px"
           width="50px"
+          loading="lazy"
           alt="PROJECT LOGO"
           srcset=""
         />
