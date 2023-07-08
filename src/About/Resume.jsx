@@ -25,7 +25,7 @@ const Resume = () => {
     const downloadLink = document.createElement("a");
     downloadLink.href = me;
     console.log("me", me); // Replace with the actual path to your CV file
-    downloadLink.download = "navneetPdf"; // Replace with the desired file name
+    downloadLink.download = "Navneet CV"; // Replace with the desired file name
     downloadLink.click();
   };
 
@@ -76,7 +76,7 @@ const Resume = () => {
                   </div>
                 </div>
               </div>
-              <div className=" text-normal px-5 py-2 text-lg ">
+              <div className=" text-normal px-5 py-2 text-lg italic ">
                 <li className="py-1 px-1 text- ">
                   High School - BKJ Sr.Sec Public School, Non-Medical Stream,
                   88%
@@ -122,7 +122,7 @@ const Resume = () => {
                   </div>
                 </div>
               </div>
-              <div className=" text-justify px-5 py-2 text-lg italic">
+              <div className=" text-start lg:text-justify lg:px-5 px-2 py-2 text-lg italic">
                 <li className="py-1 px-1 text- ">
                   Developing and maintaining web applications that are optimised
                   for various devices and browsers.

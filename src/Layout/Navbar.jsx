@@ -100,7 +100,7 @@ const Navbar = () => {
               transition={{ duration: 1 }}
               className="z-[15000]"
             >
-              <div className="bg-gray-50 h-[120vh] absolute w-full z-[8000]">
+              <div className="bg-gray-50 h-[190vh] absolute w-full z-[8000]">
                 <div
                   className="font-[Lucida Sans, Lucida Sans Regular, Lucida Grande,
     Lucida Sans Unicode, Geneva, Verdana, sans-serif] italic  font-semibold text-[#015761] text-xl"
